@@ -1,0 +1,5 @@
+app.py
+build
+.vscode
+dist
+app.spec
