@@ -1,6 +1,6 @@
-main.py
 build
 .vscode
 dist
 app.spec
 pip.py
+main.py
